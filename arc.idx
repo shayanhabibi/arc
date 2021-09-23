@@ -1,0 +1,5 @@
+atomicRC	arc.html#atomicRC,ref	arc: atomicRC(p: ref): int	
+atomicRC	arc.html#atomicRC,ref,int	arc: atomicRC(p: ref; n: int)	
+atomicIncRef	arc.html#atomicIncRef,ref	arc: atomicIncRef(p: ref): int	
+atomicDecRef	arc.html#atomicDecRef,ref	arc: atomicDecRef(p: ref): int	
+isIsolated	arc.html#isIsolated.t,ref	arc: isIsolated(p: ref): bool	
